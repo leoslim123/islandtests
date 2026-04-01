@@ -1,0 +1,5 @@
+com\island\FunctionalTest.class
+com\island\island\LocationTest.class
+com\island\island\IslandTest.class
+com\island\config\SimulationConfigTest.class
+com\island\entity\AnimalTest.class
